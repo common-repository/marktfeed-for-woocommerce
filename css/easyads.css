@@ -1,0 +1,64 @@
+
+div#wpcontent {
+  padding: 0px !important;
+}
+
+div.wrap {
+  margin: 0px;
+}
+
+div.easyads-header-wrap {
+  background-color: #1c487c;
+  padding: 20px;
+}
+
+p.easyads-intro {
+  color: white;
+}
+
+div.easyads-body {
+  padding: 20px;
+}
+
+div.easyads-tab {
+  padding: 15px;
+}
+
+table.easyads-tab-status {
+  width: 100%;
+}
+
+td.easyads-tab-status-td1 {
+  width: 100px;
+}
+
+td.easyads-tab-status-td2 {
+  width: 30px;
+}
+
+.easyads-status-off {
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+	background-color: red;
+
+	/* width and height can be anything, as long as they're equal */
+}
+
+.easyads-status-waiting {
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+	background-color: orange;
+
+	/* width and height can be anything, as long as they're equal */
+}
+
+.easyads-status-on {
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+	background-color: green;
+
+	/* width and height can be anything, as long as they're equal */
+}
